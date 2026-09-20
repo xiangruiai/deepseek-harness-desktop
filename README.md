@@ -1,5 +1,9 @@
 # DeepSeek Harness Desktop
 
+> [!NOTE]
+> 本仓库已归档。安装包已迁移至 [xiangrui-toolkit · Releases](https://github.com/xiangruiai/xiangrui-toolkit/releases/tag/v1.2.0)，后续随工具箱统一发布。
+
+
 非官方 macOS 桌面应用。打开就能用，Node.js 和 DeepSeek Harness 已经打在安装包里。图标使用 DeepSeek 鲸鱼。
 
 本仓库**只提供安装包**，不公开桌面壳源码。由万涂幻象发布，不是 DeepSeek 官方客户端。
